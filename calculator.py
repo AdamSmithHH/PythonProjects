@@ -20,8 +20,8 @@ while True:
         print("EXİT")
         break
     elif(islem=="+"):
-        sayi1=int(input("Number one : "))
-        sayi2=int(input("Number two : "))
+        sayi1=input("Number one : "))
+        sayi2=input("Number two : "))
         try:
             sayi_1 = int(sayi1)
             sayi_2 = int(sayi2)
